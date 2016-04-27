@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/quxbaz/loopda-server#readme",
   "dependencies": {
+    "express": "^4.13.4",
     "loopda": "git+https://github.com/quxbaz/loopda.git"
   }
 }
